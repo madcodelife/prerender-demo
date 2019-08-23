@@ -7,6 +7,7 @@ function resolve (dir) {
 }
 
 module.exports = {
+  publicPath: './',
   configureWebpack: () => {
     if (process.env.NODE_ENV === 'production') {
       return {
