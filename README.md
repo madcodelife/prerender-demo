@@ -1,3 +1,3 @@
 # prerender-demo
 
-## [demo](https://gassnake999.github.io/prerender-demo/)
+## [demo](https://madcodelife.github.io/prerender-demo/)
