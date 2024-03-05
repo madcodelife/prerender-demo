@@ -3867,11 +3867,9 @@ fn-name@~2.0.1:
   integrity sha1-UhTXU3pNBqSjAcDMJi/rhBiAAuc=
 
 follow-redirects@^1.0.0:
-  version "1.7.0"
-  resolved "https://registry.npm.taobao.org/follow-redirects/download/follow-redirects-1.7.0.tgz#489ebc198dc0e7f64167bd23b03c4c19b5784c76"
-  integrity sha1-SJ68GY3A5/ZBZ70jsDxMGbV4THY=
-  dependencies:
-    debug "^3.2.6"
+  version "1.15.5"
+  resolved "https://registry.yarnpkg.com/follow-redirects/-/follow-redirects-1.15.5.tgz#54d4d6d062c0fa7d9d17feb008461550e3ba8020"
+  integrity sha512-vSFWUON1B+yAw1VN4xMfxgn5fTUiaOzAJCKBwIIgT/+7CuGy9+r+5gITvP62j3RmaD5Ph65UaERdOSRGUzZtgw==
 
 for-in@^1.0.2:
   version "1.0.2"
