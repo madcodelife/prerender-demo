@@ -14,9 +14,9 @@
     "vuex": "^4.0.0"
   },
   "devDependencies": {
-    "@vue/cli-plugin-babel": "^3.11.0",
-    "@vue/cli-plugin-eslint": "^3.11.0",
-    "@vue/cli-service": "^3.11.0",
+    "@vue/cli-plugin-babel": "^5.0.0",
+    "@vue/cli-plugin-eslint": "^5.0.0",
+    "@vue/cli-service": "^5.0.0",
     "@vue/eslint-config-standard": "^8.0.0",
     "@babel/eslint-parser": "^7.11.0",
     "eslint": "^9.0.0",
